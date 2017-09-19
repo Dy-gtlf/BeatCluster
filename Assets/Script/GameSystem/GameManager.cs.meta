@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b9392611ea908b4bb54660f0a6470b2
+timeCreated: 1496845144
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - musicData: {instanceID: 0}
+  - rhythmline: {fileID: 1602926952159006, guid: fce68dbcf1de8ad4b94993d7a7dbf4d9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
